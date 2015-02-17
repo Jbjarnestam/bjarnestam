@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
 :q!
 :Q!
 
@@ -20,14 +21,50 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	s
 
 # File marks:
-'0  1  0  U:\.git\COMMIT_EDITMSG
+'0  1  32  u:\dojo_rules\readme
+'1  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+'2  1  0  u:\.gitconfig
+'3  1  0  U:\.git\COMMIT_EDITMSG
 
 # Jumplist (newest first):
+-'  1  32  u:\dojo_rules\readme
+-'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
 -'  1  0  U:\.git\COMMIT_EDITMSG
 
 # History of marks within files (newest to oldest):
+
+> u:\dojo_rules\readme
+	"	1	32
+	^	1	33
+	.	1	32
+	+	1	33
+	+	2	0
+	+	2	0
+	+	1	32
+
+> u:\dojo_rules\.git\COMMIT_EDITMSG
+	"	2	0
+
+> u:\.gitconfig
+	"	1	0
 
 > U:\.git\COMMIT_EDITMSG
 	"	1	0

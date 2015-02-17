@@ -4,3 +4,6 @@
 [alias]
 	st = status
 	ass = add
+	lg = log --oneline --decorate --all --graph
+[push]
+	default = simple
