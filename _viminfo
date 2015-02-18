@@ -9,6 +9,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:fixed problem
+: fixed problem
+:wq
 :q!
 :Q!
 
@@ -25,12 +28,66 @@
 	s
 
 # File marks:
-'0  1  32  u:\dojo_rules\readme
-'1  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
-'2  1  0  u:\.gitconfig
-'3  1  0  U:\.git\COMMIT_EDITMSG
+'0  13  0  U:\.git\COMMIT_EDITMSG
+'1  1  32  u:\dojo_rules\readme
+'2  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+'3  1  0  u:\.gitconfig
+'4  1  0  U:\.git\COMMIT_EDITMSG
 
 # Jumplist (newest first):
+-'  13  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  32  u:\dojo_rules\readme
+-'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  32  u:\dojo_rules\readme
+-'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  32  u:\dojo_rules\readme
+-'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  u:\.gitconfig
+-'  1  0  U:\.git\COMMIT_EDITMSG
+-'  1  0  U:\.git\COMMIT_EDITMSG
 -'  1  32  u:\dojo_rules\readme
 -'  2  0  u:\dojo_rules\.git\COMMIT_EDITMSG
 -'  1  0  u:\dojo_rules\.git\COMMIT_EDITMSG
@@ -51,6 +108,12 @@
 
 # History of marks within files (newest to oldest):
 
+> U:\.git\COMMIT_EDITMSG
+	"	13	0
+	^	1	0
+	.	1	0
+	+	1	0
+
 > u:\dojo_rules\readme
 	"	1	32
 	^	1	33
@@ -65,9 +128,3 @@
 
 > u:\.gitconfig
 	"	1	0
-
-> U:\.git\COMMIT_EDITMSG
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
